@@ -1,2 +1,4 @@
 # Resume-Builder-
-Designed an AI-powered resume builder to generate customized resumes based on user input.  Utilized Natural Language Processing (NLP) techniques to analyze user data and suggest personalized content.  Created an intuitive interface for user-friendly interactions and efficient data handling.
+o	Developed a dynamic resume builder using HTML, CSS, JavaScript, and PHP.
+o	Enabled real-time preview, template selection, and PDF export for users.
+o	Implemented MySQL database for storing and managing user-generated resumes.
